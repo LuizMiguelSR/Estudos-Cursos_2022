@@ -34,6 +34,6 @@ Práticas e exercícios
 Material de apoio
 
 - [Introdução](/Android/CursoUdemyAndroidIniciante/Introducao/)
-- [Introdução à lógica e algoritmos](/Android/CursoUdemyAndroidIniciante/Introducao/)
+- [Introdução à lógica e algoritmos](/Android/CursoUdemyAndroidIniciante/Introducao-a-logica/)
 
 Exercícios
