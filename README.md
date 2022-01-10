@@ -2,9 +2,9 @@
 
 ## _Navegação_
 
-### _Cursos de Java_
+### 💻 **Cursos de Java**
 
-**Java COMPLETO Programação Orientada a Objetos +Projetos**
+_Java COMPLETO Programação Orientada a Objetos +Projetos_
 
 Práticas e exercícios
 
@@ -27,9 +27,9 @@ Práticas e exercícios
     - [Listas](/Java/CursoUdemyJava/listasParte02/)
     - [Exercícios 01](/Java/CursoUdemyJava/exerciciosListas/)
 
-### _Cursos de Desenvolvimento Android_
+### 📱 **Cursos de Desenvolvimento Android**
 
-**Desenvolvimento Android Iniciante**
+_Desenvolvimento Android Iniciante_
 
 Material de apoio
 
