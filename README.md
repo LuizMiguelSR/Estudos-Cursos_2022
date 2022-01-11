@@ -26,6 +26,7 @@ Práticas e exercícios
   - [Laço for each](/Java/CursoUdemyJava/lacoForEach/)
   - [Listas](/Java/CursoUdemyJava/listasParte02/)
   - [Exercícios 01](/Java/CursoUdemyJava/exerciciosListas/)
+  - [Exercícios Resolvidos](/Java/CursoUdemyJava/exercicioResolvidoMatriz/)
 
 ### 📱 **Cursos de Desenvolvimento Android**
 
