@@ -27,6 +27,9 @@ Práticas e exercícios
   - [Listas](/Java/CursoUdemyJava/listasParte02/)
   - [Exercícios 01](/Java/CursoUdemyJava/exerciciosListas/)
   - [Exercícios Resolvidos](/Java/CursoUdemyJava/exercicioResolvidoMatriz/)
+  - [Exercícios 02](/Java/CursoUdemyJava/exerciciosMatrizes/)
+
+- Tópicos especiais em Java
 
 ### 📱 **Cursos de Desenvolvimento Android**
 
