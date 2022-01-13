@@ -31,6 +31,8 @@ Práticas e exercícios
 
 - Tópicos especiais em Java
 
+  - [Trabalhando com datas - Date](/Java/CursoUdemyJava/date/)
+
 ### 📱 **Cursos de Desenvolvimento Android**
 
 #### _Desenvolvimento Android Iniciante_
