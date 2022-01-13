@@ -4,7 +4,7 @@
 
 ### 💻 **Cursos de Java**
 
-#### _Java COMPLETO Programação Orientada a Objetos +Projetos_
+#### _Java COMPLETO Programação Orientada a Objetos + Projetos_
 
 Práticas e exercícios
 
