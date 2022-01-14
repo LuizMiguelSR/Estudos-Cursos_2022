@@ -32,6 +32,9 @@ Práticas e exercícios
 - Tópicos especiais em Java
 
   - [Trabalhando com datas - Date](/Java/CursoUdemyJava/date/)
+  - [Manipulando um Date com Calendar](/Java/CursoUdemyJava/calendar/)
+
+- Git e Github
 
 ### 📱 **Cursos de Desenvolvimento Android**
 
