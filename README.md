@@ -44,5 +44,6 @@ Material de apoio
 
 - [Introdução](/Android/CursoUdemyAndroidIniciante/Introducao/)
 - [Introdução à lógica e algoritmos](/Android/CursoUdemyAndroidIniciante/Introducao-a-logica/)
+- [Android - conceitos e fundamentos](/Android/CursoUdemyAndroidIniciante/Fundamentos/)
 
 Exercícios
