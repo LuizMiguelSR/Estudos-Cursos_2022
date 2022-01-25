@@ -36,6 +36,8 @@ Práticas e exercícios
 
 - Git e Github
 
+- Enumerações e composição
+
 ### 📱 **Cursos de Desenvolvimento Android**
 
 #### _Desenvolvimento Android Iniciante_
