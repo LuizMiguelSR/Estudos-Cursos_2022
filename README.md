@@ -38,6 +38,8 @@ Práticas e exercícios
 
 - Enumerações e composição
 
+  - [Trabalhando com Enumerações e conversão em String](/Java/CursoUdemyJava/enumeracao/)
+
 ### 📱 **Cursos de Desenvolvimento Android**
 
 #### _Desenvolvimento Android Iniciante_
