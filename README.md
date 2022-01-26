@@ -1,4 +1,4 @@
-# 📚 Cursos de Aperfeiçoamento em 2022 📚
+# 📚 Cursos iniciados em 2022 📚
 
 ## _Navegação_
 
