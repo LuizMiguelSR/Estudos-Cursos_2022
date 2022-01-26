@@ -53,5 +53,6 @@ Material de apoio
 - [Introdução à lógica e algoritmos](/Android/CursoUdemyAndroidIniciante/Introducao-a-logica/)
 - [Android - conceitos e fundamentos](/Android/CursoUdemyAndroidIniciante/Fundamentos/)
 - [Layout - conceitos iniciais](/Android/CursoUdemyAndroidIniciante/Layout-Conceitos-Iniciais/)
+- [Convenções de Código](/Android/CursoUdemyAndroidIniciante/App01ConversorDeMoedas/)
 
 Exercícios
