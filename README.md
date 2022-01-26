@@ -39,6 +39,9 @@ Práticas e exercícios
 - Enumerações e composição
 
   - [Trabalhando com Enumerações e conversão em String](/Java/CursoUdemyJava/enumeracao/)
+  - Falando sobre design;
+  - Composição;
+  - [Exercício 01 - Composição](/Java/CursoUdemyJava/compositionExercicio01/)
 
 ### 📱 **Cursos de Desenvolvimento Android**
 
