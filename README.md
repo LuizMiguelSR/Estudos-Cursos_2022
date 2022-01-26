@@ -2,6 +2,20 @@
 
 ## _Navegação_
 
+### 📱 **Cursos de Desenvolvimento Android**
+
+#### _Desenvolvimento Android Iniciante_
+
+Material de apoio
+
+- [Introdução](/Android/CursoUdemyAndroidIniciante/Introducao/)
+- [Introdução à lógica e algoritmos](/Android/CursoUdemyAndroidIniciante/Introducao-a-logica/)
+- [Android - conceitos e fundamentos](/Android/CursoUdemyAndroidIniciante/Fundamentos/)
+- [Layout - conceitos iniciais](/Android/CursoUdemyAndroidIniciante/Layout-Conceitos-Iniciais/)
+- [Convenções de Código](/Android/CursoUdemyAndroidIniciante/App01ConversorDeMoedas/)
+
+Exercícios
+
 ### 💻 **Cursos de Java**
 
 #### _Java COMPLETO Programação Orientada a Objetos + Projetos_
@@ -42,17 +56,3 @@ Práticas e exercícios
   - Falando sobre design;
   - Composição;
   - [Exercício 01 - Composição](/Java/CursoUdemyJava/compositionExercicio01/)
-
-### 📱 **Cursos de Desenvolvimento Android**
-
-#### _Desenvolvimento Android Iniciante_
-
-Material de apoio
-
-- [Introdução](/Android/CursoUdemyAndroidIniciante/Introducao/)
-- [Introdução à lógica e algoritmos](/Android/CursoUdemyAndroidIniciante/Introducao-a-logica/)
-- [Android - conceitos e fundamentos](/Android/CursoUdemyAndroidIniciante/Fundamentos/)
-- [Layout - conceitos iniciais](/Android/CursoUdemyAndroidIniciante/Layout-Conceitos-Iniciais/)
-- [Convenções de Código](/Android/CursoUdemyAndroidIniciante/App01ConversorDeMoedas/)
-
-Exercícios
