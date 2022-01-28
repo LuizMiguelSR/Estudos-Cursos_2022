@@ -1,59 +1,72 @@
 # 📚 Cursos iniciados em 2022 📚
 
-## _Navegação_
+## **Navegação**
 
-### 📱 **Cursos de Desenvolvimento Android**
+&nbsp;
 
-#### _Desenvolvimento Android Iniciante_
+<details>
+<summary> <b>📱 Cursos de Desenvolvimento Android</b> </summary>
 
-Material de apoio
+* <details>
+  <summary> <b>Desenvolvimento Android Iniciante</b> </summary>
 
-- [Introdução](/Android/CursoUdemyAndroidIniciante/Introducao/)
-- [Introdução à lógica e algoritmos](/Android/CursoUdemyAndroidIniciante/Introducao-a-logica/)
-- [Android - conceitos e fundamentos](/Android/CursoUdemyAndroidIniciante/Fundamentos/)
-- [Layout - conceitos iniciais](/Android/CursoUdemyAndroidIniciante/Layout-Conceitos-Iniciais/)
-- [Convenções de Código](/Android/CursoUdemyAndroidIniciante/App01ConversorDeMoedas/)
-- [App conversor de moedas](https://github.com/LuizMiguelSR/ConversorMoedas)
+  Material de apoio
 
-Exercícios
+  * [Introdução](/Android/CursoUdemyAndroidIniciante/Introducao/)
+  * [Introdução à lógica e algoritmos](/Android/CursoUdemyAndroidIniciante/Introducao-a-logica/)
+  * [Android - conceitos e fundamentos](/Android/CursoUdemyAndroidIniciante/Fundamentos/)
+  * [Layout - conceitos iniciais](/Android/CursoUdemyAndroidIniciante/Layout-Conceitos-Iniciais/)
+  * [Convenções de Código](/Android/CursoUdemyAndroidIniciante/App01ConversorDeMoedas/)
+  * [App conversor de moedas](https://github.com/LuizMiguelSR/ConversorMoedas)
 
-### 💻 **Cursos de Java**
+  Exercícios
 
-#### _Java COMPLETO Programação Orientada a Objetos + Projetos_
+  </details>
 
-Práticas e exercícios
+</details>
+&nbsp;
 
-- Fundamentos e orientação a objeto
+<details>
+<summary> <b>💻 Cursos de Java</b> </summary>
 
-  - [Fundamentos](/Java/CursoUdemyJava/curso_programacao/)
+* <details>
+  <summary> <b>Java COMPLETO Programação Orientada a Objetos + Projetos</b> </summary>
 
-- Construtores, palavra this, sobrecarga e encapsulamento
+  * Fundamentos e orientação a objeto
 
-  - [Membros Estáticos](/Java/CursoUdemyJava/boxingEunboxing/)
-  - [Classes e atributos](/Java/CursoUdemyJava/exerciciosClassesEAtributos/)
-  - [Construtores](/Java/CursoUdemyJava/exercicios_contrutores/)
+    * [Fundamentos](/Java/CursoUdemyJava/curso_programacao/)
 
-- Comportamento de memória, arrays e listas
+  * Construtores, palavra this, sobrecarga e encapsulamento
 
-  - [Tipo referência X Valor](/Java/CursoUdemyJava/tiposReferenciaTiposValor/)
-  - [Vetores](/Java/CursoUdemyJava/vetores/)
-  - [Boxing e Unboxing](/Java/CursoUdemyJava/boxingEunboxing/)
-  - [Laço for each](/Java/CursoUdemyJava/lacoForEach/)
-  - [Listas](/Java/CursoUdemyJava/listasParte02/)
-  - [Exercícios 01](/Java/CursoUdemyJava/exerciciosListas/)
-  - [Exercícios Resolvidos](/Java/CursoUdemyJava/exercicioResolvidoMatriz/)
-  - [Exercícios 02](/Java/CursoUdemyJava/exerciciosMatrizes/)
+    * [Membros Estáticos](/Java/CursoUdemyJava/boxingEunboxing/)
+    * [Classes e atributos](/Java/CursoUdemyJava/exerciciosClassesEAtributos/)
+    * [Construtores](/Java/CursoUdemyJava/exercicios_contrutores/)
 
-- Tópicos especiais em Java
+  * Comportamento de memória, arrays e listas
 
-  - [Trabalhando com datas - Date](/Java/CursoUdemyJava/date/)
-  - [Manipulando um Date com Calendar](/Java/CursoUdemyJava/calendar/)
+    * [Tipo referência X Valor](/Java/CursoUdemyJava/tiposReferenciaTiposValor/)
+    * [Vetores](/Java/CursoUdemyJava/vetores/)
+    * [Boxing e Unboxing](/Java/CursoUdemyJava/boxingEunboxing/)
+    * [Laço for each](/Java/CursoUdemyJava/lacoForEach/)
+    * [Listas](/Java/CursoUdemyJava/listasParte02/)
+    * [Exercícios 01](/Java/CursoUdemyJava/exerciciosListas/)
+    * [Exercícios Resolvidos](/Java/CursoUdemyJava/exercicioResolvidoMatriz/)
+    * [Exercícios 02](/Java/CursoUdemyJava/exerciciosMatrizes/)
 
-- Git e Github
+  * Tópicos especiais em Java
 
-- Enumerações e composição
+    * [Trabalhando com datas - Date](/Java/CursoUdemyJava/date/)
+    * [Manipulando um Date com Calendar](/Java/CursoUdemyJava/calendar/)
 
-  - [Trabalhando com Enumerações e conversão em String](/Java/CursoUdemyJava/enumeracao/)
-  - Falando sobre design;
-  - Composição;
-  - [Exercício 01 - Composição](/Java/CursoUdemyJava/compositionExercicio01/)
+  * Git e Github
+
+  * Enumerações e composição
+
+    * [Trabalhando com Enumerações e conversão em String](/Java/CursoUdemyJava/enumeracao/)
+    * Falando sobre design;
+    * Composição;
+    * [Exercício 01 - Composição](/Java/CursoUdemyJava/compositionExercicio01/)
+
+  </details>
+
+</details>
