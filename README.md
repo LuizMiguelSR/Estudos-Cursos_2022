@@ -9,12 +9,12 @@
 
   Material de apoio
 
-  * [Introdução](/Android/CursoUdemyAndroidIniciante/Introducao/?target=_blank)
-  * [Introdução à lógica e algoritmos](/Android/CursoUdemyAndroidIniciante/Introducao-a-logica/){:target="\_blank"}
-  * [Android - conceitos e fundamentos](/Android/CursoUdemyAndroidIniciante/Fundamentos/){:target="_blank"}
-  * [Layout - conceitos iniciais](/Android/CursoUdemyAndroidIniciante/Layout-Conceitos-Iniciais/){:target="_blank"}
-  * [Convenções de Código](/Android/CursoUdemyAndroidIniciante/App01ConversorDeMoedas/){:target="_blank"}
-  * [App conversor de moedas](https://github.com/LuizMiguelSR/ConversorMoedas){:target="_blank"}
+  * [Introdução](/Android/CursoUdemyAndroidIniciante/Introducao/)
+  * [Introdução à lógica e algoritmos](/Android/CursoUdemyAndroidIniciante/Introducao-a-logica/)
+  * [Android - conceitos e fundamentos](/Android/CursoUdemyAndroidIniciante/Fundamentos/)
+  * [Layout - conceitos iniciais](/Android/CursoUdemyAndroidIniciante/Layout-Conceitos-Iniciais/)
+  * [Convenções de Código](/Android/CursoUdemyAndroidIniciante/App01ConversorDeMoedas/)
+  * [App conversor de moedas](https://github.com/LuizMiguelSR/ConversorMoedas)
 
   Exercícios
 
