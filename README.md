@@ -1,11 +1,8 @@
 # 📚 Cursos iniciados em 2022 📚
 
-## **Navegação**
+# **Navegação**
 
-&nbsp;
-
-<details>
-<summary> <b>📱 Cursos de Desenvolvimento Android</b> </summary>
+## **📱 Cursos de Desenvolvimento Android**
 
 * <details>
   <summary> <b>Desenvolvimento Android Iniciante</b> </summary>
@@ -26,8 +23,7 @@
 </details>
 &nbsp;
 
-<details>
-<summary> <b>💻 Cursos de Java</b> </summary>
+## **💻 Cursos de Java**
 
 * <details>
   <summary> <b>Java COMPLETO Programação Orientada a Objetos + Projetos</b> </summary>
@@ -68,5 +64,3 @@
     * [Exercício 01 - Composição](/Java/CursoUdemyJava/compositionExercicio01/)
 
   </details>
-
-</details>
