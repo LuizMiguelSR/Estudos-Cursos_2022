@@ -63,6 +63,6 @@
     * Falando sobre design;
     * Composição;
     * [Exercício 01 - Composição](/Java/CursoUdemyJava/compositionExercicio01/);
-    * [Exercício 02 - StringBuilder](/Java/CursoUdemyJava/compositionExercicio01/);
+    * [Exercício 02 - StringBuilder](/Java/CursoUdemyJava/stringBuilderExercicio02/);
 
   </details>
