@@ -65,5 +65,9 @@
     * [Exercício 01 - Composição](/Java/CursoUdemyJava/compositionExercicio01/);
     * [Exercício 02 - StringBuilder](/Java/CursoUdemyJava/stringBuilderExercicio02/);
     * [Exercício de fixação](/Java/CursoUdemyJava/exercicioEnumComposition/);
+  
+  * Herança e polimorfismo;
+
+    * [Herança](/Java/CursoUdemyJava/heranca/);
 
   </details>
