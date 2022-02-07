@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="boxingEunboxing/src"/>
+	<classpathentry kind="src" path="calendar/src"/>
+	<classpathentry kind="src" path="compositionExercicio01/src"/>
+	<classpathentry kind="src" path="courseGit/src"/>
+	<classpathentry kind="src" path="curso_programacao/src"/>
+	<classpathentry kind="src" path="date/src"/>
+	<classpathentry kind="src" path="enumeracao/src"/>
+	<classpathentry kind="src" path="exercicioEnumComposition/src"/>
+	<classpathentry kind="src" path="exercicioResolvidoMatriz/src"/>
+	<classpathentry kind="src" path="exercicios_contrutores/src"/>
+	<classpathentry kind="src" path="exerciciosClassesEAtributos/src"/>
+	<classpathentry kind="src" path="exerciciosListas/src"/>
+	<classpathentry kind="src" path="exerciciosMatrizes/src"/>
+	<classpathentry kind="src" path="heranca/src"/>
+	<classpathentry kind="src" path="lacoForEach/src"/>
+	<classpathentry kind="src" path="listasParte02/src"/>
+	<classpathentry kind="src" path="membrosEstaticos1/src"/>
+	<classpathentry kind="src" path="stringBuilderExercicio02/src"/>
+	<classpathentry kind="src" path="tiposReferenciaTiposValor/src"/>
+	<classpathentry kind="src" path="vetores/src"/>
+	<classpathentry kind="output" path="boxingEunboxing/bin"/>
+</classpath>
