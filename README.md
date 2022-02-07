@@ -69,5 +69,6 @@
   * Herança e polimorfismo;
 
     * [Herança](/Java/CursoUdemyJava/heranca/);
+    * [Upcasting e Downcasting](/Java/CursoUdemyJava/heranca/);
 
   </details>
