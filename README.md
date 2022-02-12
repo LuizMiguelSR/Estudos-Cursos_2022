@@ -65,3 +65,11 @@
     - [Upcasting e Downcasting](/Java/CursoUdemyJava/heranca/);
     - [Sobreposição, palavra super, anotação @Override](/Java/CursoUdemyJava/heranca/);
     - [Classes e método final](/Java/CursoUdemyJava/heranca/);
+
+&nbsp;
+
+## **💾 Database Design**
+
+- ### **Oracle - DD Database Design**
+
+  - [Seção 00 - Recursos do Curso](/Java/DatabaseDesign/Secao00/);
