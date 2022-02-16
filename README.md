@@ -65,7 +65,8 @@
     - [Upcasting e Downcasting](/Java/CursoUdemyJava/heranca/);
     - [Sobreposição, palavra super, anotação @Override](/Java/CursoUdemyJava/heranca/);
     - [Classes e método final](/Java/CursoUdemyJava/heranca/);
-    - [Exercício Resolvido](/Java/CursoUdemyJava/exercicioResolvidoHeranca/)
+    - [Exercício Resolvido](/Java/CursoUdemyJava/exercicioResolvidoHeranca/);
+    - [Exercício Fixação](/Java/CursoUdemyJava/exercicioPolimorfismo/);
 
 &nbsp;
 
