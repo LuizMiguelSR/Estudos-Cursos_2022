@@ -14,7 +14,8 @@
   
   Exercícios
 
-  - [App conversor de moedas](https://github.com/LuizMiguelSR/ConversorMoedas);
+  - [App Conversor de moedas](https://github.com/LuizMiguelSR/ConversorMoedas);
+  - [App Festa de fim de ano](https://github.com/LuizMiguelSR/FestaFimDeAno);
 
 &nbsp;
 
