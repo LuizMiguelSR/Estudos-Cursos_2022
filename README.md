@@ -68,6 +68,7 @@
     - [Classes e método final](/Java/CursoUdemyJava/heranca/);
     - [Exercício Resolvido](/Java/CursoUdemyJava/exercicioResolvidoHeranca/);
     - [Exercício Fixação](/Java/CursoUdemyJava/exercicioPolimorfismo/);
+    - [Classes Abstratas](/Java/CursoUdemyJava/classesAbstratas/);
 
 &nbsp;
 
