@@ -71,6 +71,8 @@
     - [Classes Abstratas](/Java/CursoUdemyJava/classesAbstratas/);
     - [Métodos Abstratos](/Java/CursoUdemyJava/metodosAbstratos/);
     - [Exercício Fixação](/Java/CursoUdemyJava/exercicioMetodosAbstratos/);
+  
+  - Tratamento de exceções;
 
 &nbsp;
 
