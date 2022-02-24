@@ -92,3 +92,4 @@
   Material de apoio
 
   - [Introdução](/HTMLeCSS/DigitalOne_HTML/index.html/);
+  - [Entendendo o que é semântica](/HTMLeCSS/DigitalOne_HTML/index.html/);
