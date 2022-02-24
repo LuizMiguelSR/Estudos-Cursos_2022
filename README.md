@@ -73,6 +73,7 @@
     - [Exercício Fixação](/Java/CursoUdemyJava/exercicioMetodosAbstratos/);
   
   - Tratamento de exceções;
+    - Discussão inicial sobre exceções;
 
 &nbsp;
 
