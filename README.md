@@ -83,6 +83,8 @@
 - ### **Oracle - DD Database Design**
 
   - [Seção 00 - Recursos do Curso](/Java/DatabaseDesign/Secao00/);
+  - [Seção 01 - Recursos do Curso](/Java/DatabaseDesign/Secao01/);
+    - Introdução à Oracle Academy;
 
 &nbsp;
 
