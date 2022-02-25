@@ -74,6 +74,7 @@
   
   - Tratamento de exceções;
     - Discussão inicial sobre exceções;
+    - [Try Catch](/Java/CursoUdemyJava/tryCatch/)
 
 &nbsp;
 
