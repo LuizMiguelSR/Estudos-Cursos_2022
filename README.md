@@ -98,3 +98,4 @@
   - [Introdução](/HTMLeCSS/DigitalOne_HTML/index.html/);
   - [Entendendo o que é semântica](/HTMLeCSS/DigitalOne_HTML/index.html/);
   - [Textos e links em HTML](/HTMLeCSS/DigitalOne_HTML/index.html/);
+  - [Como inserir imagem em seu site](/HTMLeCSS/DigitalOne_HTML/index.html/);
