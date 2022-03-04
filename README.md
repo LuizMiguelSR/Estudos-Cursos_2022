@@ -96,8 +96,12 @@
 
   Material de apoio
 
-  - [Introdução](/HTMLeCSS/DigitalOne_HTML/index.html/);
-  - [Entendendo o que é semântica](/HTMLeCSS/DigitalOne_HTML/index.html/);
-  - [Textos e links em HTML](/HTMLeCSS/DigitalOne_HTML/index.html/);
-  - [Como inserir imagem em seu site](/HTMLeCSS/DigitalOne_HTML/index.html/);
-  - [Como organizar lista com HTML](/HTMLeCSS/DigitalOne_HTML/index.html/);
+  - HTML5;
+    - [Introdução](/HTMLeCSS/DigitalOne_HTML/index.html/);
+    - [Entendendo o que é semântica](/HTMLeCSS/DigitalOne_HTML/index.html/);
+    - [Textos e links em HTML](/HTMLeCSS/DigitalOne_HTML/index.html/);
+    - [Como inserir imagem em seu site](/HTMLeCSS/DigitalOne_HTML/index.html/);
+    - [Como organizar lista com HTML](/HTMLeCSS/DigitalOne_HTML/index.html/);
+
+  - CSS3;
+    - [Introdução e conceitos básicos do CSS3](/HTMLeCSS/DigitalOne_HTML/);
