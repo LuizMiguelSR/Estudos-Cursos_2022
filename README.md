@@ -99,8 +99,5 @@
   - [Introdução](/HTMLeCSS/DigitalOne_HTML/index.html/);
   - [Entendendo o que é semântica](/HTMLeCSS/DigitalOne_HTML/index.html/);
   - [Textos e links em HTML](/HTMLeCSS/DigitalOne_HTML/index.html/);
-<<<<<<< HEAD
-  - [Como organizar lista com HTML](/HTMLeCSS/DigitalOne_HTML/index.html/);
-=======
   - [Como inserir imagem em seu site](/HTMLeCSS/DigitalOne_HTML/index.html/);
->>>>>>> 11f8092c14b58bf2fd787e0ac0b6c4782ee15283
+  - [Como organizar lista com HTML](/HTMLeCSS/DigitalOne_HTML/index.html/);
