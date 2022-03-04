@@ -74,7 +74,8 @@
   
   - Tratamento de exceções;
     - Discussão inicial sobre exceções;
-    - [Try Catch](/Java/CursoUdemyJava/tryCatch/)
+    - [Try Catch](/Java/CursoUdemyJava/tryCatch/);
+    - [Pilha de chamada de métodos (stack trace)](/Java/CursoUdemyJava/tryCatch/);
 
 &nbsp;
 
@@ -85,6 +86,7 @@
   - [Seção 00 - Recursos do Curso](/Java/DatabaseDesign/Secao00/);
   - [Seção 01 - Recursos do Curso](/Java/DatabaseDesign/Secao01/);
     - Introdução à Oracle Academy;
+    - Dados vs Informação;
 
 &nbsp;
 
@@ -97,4 +99,8 @@
   - [Introdução](/HTMLeCSS/DigitalOne_HTML/index.html/);
   - [Entendendo o que é semântica](/HTMLeCSS/DigitalOne_HTML/index.html/);
   - [Textos e links em HTML](/HTMLeCSS/DigitalOne_HTML/index.html/);
+<<<<<<< HEAD
   - [Como organizar lista com HTML](/HTMLeCSS/DigitalOne_HTML/index.html/);
+=======
+  - [Como inserir imagem em seu site](/HTMLeCSS/DigitalOne_HTML/index.html/);
+>>>>>>> 11f8092c14b58bf2fd787e0ac0b6c4782ee15283
