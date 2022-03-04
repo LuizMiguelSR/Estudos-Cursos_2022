@@ -88,6 +88,7 @@
   - [Seção 01 - Recursos do Curso](/Java/DatabaseDesign/Secao01/);
     - Introdução à Oracle Academy;
     - Dados vs Informação;
+    - Histórico do Banco de Dados;
 
 &nbsp;
 
