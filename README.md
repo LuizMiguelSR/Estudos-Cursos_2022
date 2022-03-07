@@ -92,6 +92,7 @@
     - Histórico do Banco de Dados;
   - [Seção 02 - Entidades e atributos](/DatabaseDesign/Secao02/);
     - [Modelos conceituais e físicos](/DatabaseDesign/Secao02/DD_2_1_sg_pr.pdf);
+    - [Entidades, Instâncias, Atributos e Identificadores](/DatabaseDesign/Secao02/DD_2_2_sg_pr.pdf);
 
 &nbsp;
 
