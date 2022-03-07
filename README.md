@@ -77,6 +77,7 @@
     - [Try Catch](/Java/CursoUdemyJava/tryCatch/);
     - [Pilha de chamada de métodos (stack trace)](/Java/CursoUdemyJava/tryCatch/);
     - [Criando exceções personalizadas](/Java/CursoUdemyJava/exceptionPersonalization/);
+    - [Primeira solução - muito ruim](/Java/CursoUdemyJava/exceptionPersonalization/);
 
 &nbsp;
 
