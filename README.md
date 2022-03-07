@@ -108,4 +108,5 @@
     - [Como organizar lista com HTML](/HTMLeCSS/DigitalOne_HTML/index.html/);
 
   - CSS3;
-    - [Introdução e conceitos básicos do CSS3](/HTMLeCSS/DigitalOne_HTML/);
+    - [Introdução e conceitos básicos do CSS3](/HTMLeCSS/DigitalOne_HTML/style.css);
+    - [Estilizando elementos, textos e listas](/HTMLeCSS/DigitalOne_HTML/style.css);
