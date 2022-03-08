@@ -99,7 +99,7 @@
 
 ## **💻 Cursos de HTML e CSS**
 
-- ### **Digital Inovation One**
+- ### **Digital Inovation One (✔Finalizado)**
 
   Material de apoio
 
@@ -113,3 +113,4 @@
   - CSS3;
     - [Introdução e conceitos básicos do CSS3](/HTMLeCSS/DigitalOne_HTML/style.css);
     - [Estilizando elementos, textos e listas](/HTMLeCSS/DigitalOne_HTML/style.css);
+    - [Dimensão e Alinhamento](/HTMLeCSS/DigitalOne_HTML/style.css);
