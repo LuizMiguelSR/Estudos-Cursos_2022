@@ -2,7 +2,7 @@
 
 ## **📱 Cursos de Desenvolvimento Android**
 
-- ### **Desenvolvimento Android Iniciante**
+- ### **Desenvolvimento Android Iniciante (✔Finalizado)**
 
   Material de apoio
 
