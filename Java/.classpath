@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="CursoUdemyJava/calendar/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/classesAbstratas/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/compositionExercicio01/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/courseGit/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/curso_programacao/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/date/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/enumeracao/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/exceptionPersonalization/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/exercicioEnumComposition/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/exercicioMetodosAbstratos/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/exercicioPolimorfismo/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/exercicioResolvidoHeranca/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/exercicioResolvidoMatriz/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/exercicios_contrutores/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/exerciciosClassesEAtributos/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/exerciciosListas/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/exerciciosMatrizes/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/heranca/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/lacoForEach/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/listasParte02/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/membrosEstaticos1/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/metodosAbstratos/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/stringBuilderExercicio02/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/tiposReferenciaTiposValor/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/tryCatch/src"/>
+	<classpathentry kind="src" path="CursoUdemyJava/vetores/src"/>
+	<classpathentry kind="output" path="CursoUdemyJava/boxingEunboxing/bin"/>
+</classpath>

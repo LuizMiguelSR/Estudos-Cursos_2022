@@ -79,6 +79,8 @@
     - [Criando exceções personalizadas](/Java/CursoUdemyJava/exceptionPersonalization/);
     - [Primeira solução - muito ruim](/Java/CursoUdemyJava/exceptionPersonalization/);
     - [Segunda solução - ruim](/Java/CursoUdemyJava/exceptionPersonalization/);
+    - [Terceira solução - boa](/Java/CursoUdemyJava/exceptionPersonalization/);
+    - [Exercício de fixação](/Java/CursoUdemyJava/exercicioExceptions/);
 
 &nbsp;
 
