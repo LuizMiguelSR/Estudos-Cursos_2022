@@ -82,6 +82,9 @@
     - [Terceira solução - boa](/Java/CursoUdemyJava/exceptionPersonalization/);
     - [Exercício de fixação](/Java/CursoUdemyJava/exercicioExceptions/);
 
+  - Projeto Jogo de Xadrez;
+    - [Projeto jogo de Xadrez em java](https://github.com/LuizMiguelSR/chess-system-java);
+
 &nbsp;
 
 ## **💻 Cursos de HTML e CSS**
