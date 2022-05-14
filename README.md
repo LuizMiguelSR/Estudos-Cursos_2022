@@ -86,7 +86,7 @@
     - [Projeto jogo de Xadrez em java](https://github.com/LuizMiguelSR/chess-system-java);
   
   - Trabalhando com arquivos;
-    - [Lendo arquivo texto com classes File e Scanner]();
+    - [Lendo arquivo texto com classes File e Scanner](https://github.com/LuizMiguelSR/Cursos-de-2022/blob/main/Java/CursoUdemyJava/lendoArquivosScanner/src/application/Program.java);
 
 &nbsp;
 
