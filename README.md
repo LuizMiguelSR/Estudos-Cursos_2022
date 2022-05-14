@@ -84,6 +84,9 @@
 
   - Projeto Jogo de Xadrez;
     - [Projeto jogo de Xadrez em java](https://github.com/LuizMiguelSR/chess-system-java);
+  
+  - Trabalhando com arquivos;
+    - [Lendo arquivo texto com classes File e Scanner]();
 
 &nbsp;
 
