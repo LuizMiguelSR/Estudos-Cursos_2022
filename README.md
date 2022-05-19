@@ -87,6 +87,7 @@
   
   - Trabalhando com arquivos;
     - [Lendo arquivo texto com classes File e Scanner](https://github.com/LuizMiguelSR/Cursos-de-2022/blob/main/Java/CursoUdemyJava/lendoArquivosScanner/src/application/Program.java);
+    - [FileReader e BufferedReader](/Java/CursoUdemyJava/bufferedFileReader/src/application/Program.java);
 
 &nbsp;
 
