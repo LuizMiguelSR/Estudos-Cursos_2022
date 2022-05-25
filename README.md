@@ -90,6 +90,7 @@
     - [FileReader e BufferedReader](/Java/CursoUdemyJava/bufferedFileReader/src/application/Program.java);
     - [FileWriter e BufferedWriter](/Java/CursoUdemyJava/FileEBufferedWtriter/src/application/Program.java);
     - [Manipulando pastas com o File](/Java/CursoUdemyJava/pastasFile/src/application/Program.java);
+    - [Informações de um arquivo](/Java/CursoUdemyJava/infoArquivo/src/application/Program.java);
 
 &nbsp;
 
