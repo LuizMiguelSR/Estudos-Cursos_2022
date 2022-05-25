@@ -89,6 +89,7 @@
     - [Lendo arquivo texto com classes File e Scanner](https://github.com/LuizMiguelSR/Cursos-de-2022/blob/main/Java/CursoUdemyJava/lendoArquivosScanner/src/application/Program.java);
     - [FileReader e BufferedReader](/Java/CursoUdemyJava/bufferedFileReader/src/application/Program.java);
     - [FileWriter e BufferedWriter](/Java/CursoUdemyJava/FileEBufferedWtriter/src/application/Program.java);
+    - [Manipulando pastas com o File](/Java/CursoUdemyJava/pastasFile/src/application/Program.java);
 
 &nbsp;
 
