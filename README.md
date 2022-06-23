@@ -111,6 +111,12 @@
   - [Informações de um arquivo](/Java/CursoUdemyJava/infoArquivo/src/application/Program.java);
   </details>
 
+  <details>
+  <summary> Interfaces </summary>  
+
+  -[Solução do problema - Parte 01](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/4068665a91e9aaba16bc3397737ba82bf4d1d589);
+  </details>
+
 &nbsp;
 
 ## **💻 Cursos de HTML e CSS**
