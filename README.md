@@ -116,7 +116,7 @@
 
   - [Solução do problema - Parte 01](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/4068665a91e9aaba16bc3397737ba82bf4d1d589);
   - [Solução do problema - Parte 02](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/fbcc1e38f3efa806ef19e271fbc90846f688d822);
-  - [Solução do problema - Parte 03](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/fbcc1e38f3efa806ef19e271fbc90846f688d822);
+  - [Solução do problema - Parte 03](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/783c5915545928ae471520553c5f333871822027);
   </details>
 
 &nbsp;
