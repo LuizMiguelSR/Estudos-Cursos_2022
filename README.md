@@ -122,6 +122,16 @@
 
 ## **💻 Cursos de HTML e CSS**
 
+- ### **Curso em Vídeo**
+
+  Módulo 01
+
+  <details>
+  <summary> Fundamentos </summary>
+
+  - [Primeiro Código em HTML](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex001/index.html);
+  </details>
+
 - ### **Digital Inovation One (✔Finalizado)**
 
   Material de apoio
