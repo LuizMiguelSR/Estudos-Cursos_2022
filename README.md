@@ -1,4 +1,4 @@
-# 📚 Cursos iniciados em 2022 📚
+# <center> 📚 Cursos iniciados em 2022 📚 </center>
 
 ## **📱 Cursos de Desenvolvimento Android**
 
