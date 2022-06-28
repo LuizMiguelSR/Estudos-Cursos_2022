@@ -117,6 +117,7 @@
   - [Solução do problema - Parte 01](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/4068665a91e9aaba16bc3397737ba82bf4d1d589);
   - [Solução do problema - Parte 02](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/fbcc1e38f3efa806ef19e271fbc90846f688d822);
   - [Solução do problema - Parte 03](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/783c5915545928ae471520553c5f333871822027);
+  - Inversão de controle, injeção de dependência;
   </details>
 
 &nbsp;
@@ -131,20 +132,27 @@
   <summary> Fundamentos </summary>
 
   - [Primeiro Código em HTML](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex001/index.html);
+  - [Parágrafos e Quebras](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex002/index.html);
   </details>
 
 - ### **Digital Inovation One (✔Finalizado)**
 
   Material de apoio
 
-  - HTML5;
-    - [Introdução](/HTMLeCSS/DigitalOne_HTML/index.html/);
-    - [Entendendo o que é semântica](/HTMLeCSS/DigitalOne_HTML/index.html/);
-    - [Textos e links em HTML](/HTMLeCSS/DigitalOne_HTML/index.html/);
-    - [Como inserir imagem em seu site](/HTMLeCSS/DigitalOne_HTML/index.html/);
-    - [Como organizar lista com HTML](/HTMLeCSS/DigitalOne_HTML/index.html/);
+  <details>
+  <summary> HTML 05 </summary>
 
-  - CSS3;
-    - [Introdução e conceitos básicos do CSS3](/HTMLeCSS/DigitalOne_HTML/style.css);
-    - [Estilizando elementos, textos e listas](/HTMLeCSS/DigitalOne_HTML/style.css);
-    - [Dimensão e Alinhamento](/HTMLeCSS/DigitalOne_HTML/style.css);
+  - [Introdução](/HTMLeCSS/DigitalOne_HTML/index.html/);
+  - [Entendendo o que é semântica](/HTMLeCSS/DigitalOne_HTML/index.html/);
+  - [Textos e links em HTML](/HTMLeCSS/DigitalOne_HTML/index.html/);
+  - [Como inserir imagem em seu site](/HTMLeCSS/DigitalOne_HTML/index.html/);
+  - [Como organizar lista com HTML](/HTMLeCSS/DigitalOne_HTML/index.html/);
+  </details>
+
+  <details>
+  <summary> CSS 03 </summary>
+
+  - [Introdução e conceitos básicos do CSS3](/HTMLeCSS/DigitalOne_HTML/style.css);
+  - [Estilizando elementos, textos e listas](/HTMLeCSS/DigitalOne_HTML/style.css);
+  - [Dimensão e Alinhamento](/HTMLeCSS/DigitalOne_HTML/style.css);
+  </details>
