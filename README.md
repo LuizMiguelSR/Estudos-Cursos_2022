@@ -133,6 +133,7 @@
 
   - [Primeiro Código em HTML](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex001/index.html);
   - [Parágrafos e Quebras](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex002/index.html);
+  - [Símbolos e emojis no seu site](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex002/index.html);
   </details>
 
 - ### **Digital Inovation One (✔Finalizado)**
