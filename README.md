@@ -119,6 +119,7 @@
   - [Solução do problema - Parte 03](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/783c5915545928ae471520553c5f333871822027);
   - Inversão de controle, injeção de dependência;
   - [Herdar vs Cumprir contrato](/Java/CursoUdemyJava/herdarVsContrato/src/);
+  - [Herança múltipla e o problema do diamante](/Java/CursoUdemyJava/interface03/src/);
   </details>
 
 &nbsp;
