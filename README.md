@@ -137,6 +137,7 @@
   - [Parágrafos e Quebras](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex002/index.html);
   - [Símbolos e emojis no seu site](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex002/index.html);
   - [A tag img em HTML5](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex003/);
+  - [Como mudar o favicon de um site](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex004/);
   </details>
 
 - ### **Digital Inovation One (✔Finalizado)**
