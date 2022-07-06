@@ -120,6 +120,7 @@
   - Inversão de controle, injeção de dependência;
   - [Herdar vs Cumprir contrato](/Java/CursoUdemyJava/herdarVsContrato/src/);
   - [Herança múltipla e o problema do diamante](/Java/CursoUdemyJava/interface03/src/);
+  - [Interface Comparable: Problema 01](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/b8f36b9ce0dbf72ff6e98d893821ccc3de3d3db2) e [Interface Comparable: Problema 02](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/b86472ea830c0e87150e77b21bc8ac852ed1b690);
   </details>
 
 &nbsp;
