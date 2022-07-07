@@ -139,6 +139,7 @@
   - [Símbolos e emojis no seu site](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex002/index.html);
   - [A tag img em HTML5](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex003/);
   - [Como mudar o favicon de um site](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex004/);
+  - [Hierarquia de Títulos](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex006/);
   </details>
 
 - ### **Digital Inovation One (✔Finalizado)**
