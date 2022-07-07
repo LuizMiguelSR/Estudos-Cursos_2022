@@ -4,18 +4,22 @@
 
 - ### **Desenvolvimento Android Iniciante (✔Finalizado)**
 
-  Material de apoio
+  <details>
+  <summary> Material de apoio </summary>
 
   - [Introdução](/Android/CursoUdemyAndroidIniciante/Introducao/);
   - [Introdução à lógica e algoritmos](/Android/CursoUdemyAndroidIniciante/Introducao-a-logica/);
   - [Android - conceitos e fundamentos](/Android/CursoUdemyAndroidIniciante/Fundamentos/);
   - [Layout - conceitos iniciais](/Android/CursoUdemyAndroidIniciante/Layout-Conceitos-Iniciais/);
   - [Convenções de Código](/Android/CursoUdemyAndroidIniciante/App01ConversorDeMoedas/);
-  
-  Exercícios
+  </details>
+
+  <details>
+  <summary> Exercícios </summary>
 
   - [App Conversor de moedas](https://github.com/LuizMiguelSR/ConversorMoedas);
   - [App Festa de fim de ano](https://github.com/LuizMiguelSR/FestaFimDeAno);
+  </details>
 
 &nbsp;
 
@@ -121,6 +125,13 @@
   - [Herdar vs Cumprir contrato](/Java/CursoUdemyJava/herdarVsContrato/src/);
   - [Herança múltipla e o problema do diamante](/Java/CursoUdemyJava/interface03/src/);
   - [Interface Comparable: Problema 01](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/b8f36b9ce0dbf72ff6e98d893821ccc3de3d3db2) e [Interface Comparable: Problema 02](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/b86472ea830c0e87150e77b21bc8ac852ed1b690);
+  - [Default Methods](/Java/CursoUdemyJava/defaultMethodsProlbema01/src/);
+  </details>
+
+  <details>
+  <summary> Generics, Set, Map </summary>
+
+  - [Default Methods](/Java/CursoUdemyJava/interface03/src/);
   </details>
 
 &nbsp;
@@ -141,6 +152,8 @@
   - [Como mudar o favicon de um site](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex004/);
   - [Hierarquia de Títulos](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex006/);
   </details>
+
+&nbsp;
 
 - ### **Digital Inovation One (✔Finalizado)**
 
