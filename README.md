@@ -142,6 +142,7 @@
   <summary> Seção 04 Projetos na Eclipse IDE </summary>
 
   - [Introdução ao Eclipse](/Java/JavaFundamentals/Projetos/secao04StudyTools/src/studyTools/StudyPage.java);
+  - [Classes de Objeto e Driver](/Java/JavaFundamentals/Projetos/secao04ClassDriver/src/application/);
   </details>
 
 &nbsp;
