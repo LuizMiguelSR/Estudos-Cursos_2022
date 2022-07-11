@@ -133,7 +133,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <details>
   <summary> Generics, Set, Map </summary>
 
-  - [Default Methods](/Java/CursoUdemyJava/interface03/src/);
+  - [Introdução aos Generics](/Java/CursoUdemyJava/generics1/src/);
   </details>
 
 &nbsp;
