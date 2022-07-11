@@ -1,5 +1,7 @@
 # 📚 Cursos iniciados em 2022 📚
 
+Repositório destinado a exercícios e exemplos dos cursos, relacionados a programação, que foram realizados ao longo do ano de 2022.
+
 ## **📱 Cursos de Desenvolvimento Android**
 
 - ### **Desenvolvimento Android Iniciante (✔Finalizado)**
@@ -163,6 +165,7 @@
   - [Como mudar o favicon de um site](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex004/);
   - [Hierarquia de Títulos](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex006/);
   - [Semântica na HTML5 é importante](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex007/);
+  - [Negrito e Itálico do jeito certo](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex008/index.html);
   </details>
 
 &nbsp;
