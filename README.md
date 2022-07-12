@@ -166,6 +166,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Hierarquia de Títulos](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex006/);
   - [Semântica na HTML5 é importante](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex007/);
   - [Negrito e Itálico do jeito certo](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex008/index.html);
+  - [Formatações adicionais em HTML](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex008/index.html);
   </details>
 
 &nbsp;
