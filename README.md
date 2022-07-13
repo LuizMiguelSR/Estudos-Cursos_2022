@@ -146,6 +146,11 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
 
   - [Introdução ao Eclipse](/Java/JavaFundamentals/Projetos/secao04StudyTools/src/studyTools/StudyPage.java);
   - [Classes de Objeto e Driver](/Java/JavaFundamentals/Projetos/secao04ClassDriver/src/application/);
+  </details>
+
+  <details>
+  <summary> Seção 05 Program Structure </summary>
+  
   - [Instruções de Controle](/Java/JavaFundamentals/Projetos/secao05Palindromo/src/PalindromeTester/Program.java);
   </details>
 
