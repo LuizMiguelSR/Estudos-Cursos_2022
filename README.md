@@ -150,7 +150,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
 
   <details>
   <summary> Seção 05 Program Structure </summary>
-  
+
   - [Instruções de Controle](/Java/JavaFundamentals/Projetos/secao05Palindromo/src/PalindromeTester/Program.java);
   </details>
 
@@ -174,6 +174,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Semântica na HTML5 é importante](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex007/);
   - [Negrito e Itálico do jeito certo](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex008/index.html);
   - [Formatações adicionais em HTML](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex008/index.html);
+  - [Citações e códigos](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex009/index.html);
   </details>
 
 &nbsp;
