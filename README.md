@@ -155,6 +155,12 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Instruções de Controle](/Java/JavaFundamentals/Projetos/secao05Palindromo/src/PalindromeTester/Program.java);
   </details>
 
+  <details>
+  <summary> Seção 06 Arrays </summary>
+
+  - [Arrays](/Java/JavaFundamentals/Projetos/secao06Arrays/src/secao06Arrays/TwoDTester.java);
+  </details>
+
 &nbsp;
 
 ## **💻 Cursos de HTML e CSS**
