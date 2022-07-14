@@ -182,6 +182,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Negrito e Itálico do jeito certo](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex008/index.html);
   - [Formatações adicionais em HTML](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex008/index.html);
   - [Citações e códigos](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex009/index.html);
+  - [Listas OL e UL](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex009b/index.html);
   </details>
 
 &nbsp;
