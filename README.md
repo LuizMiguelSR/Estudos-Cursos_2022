@@ -137,6 +137,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Genéricos delimitados](/Java/CursoUdemyJava/generics2/src/);
   - [Tipos curinga](/Java/CursoUdemyJava/genericCoringa/src/application/Program.java);
   - [Curingas delimitados](/Java/CursoUdemyJava/generics4/src/);
+  - [HasCode e Equals](/Java/CursoUdemyJava/genericHasCodeEquals/src/);
   </details>
 
 &nbsp;
