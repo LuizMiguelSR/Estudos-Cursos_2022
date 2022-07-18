@@ -167,6 +167,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <summary> Seção 07 Java Classes </summary>
 
   - [Classes, Objetos e Métodos](/Java/JavaFundamentals/Projetos/secao07Classes/src/secao07Classes/Vehicle.java);
+  - [Parâmetros e Sobrecarga de Métodos](/Java/JavaFundamentals/Projetos/secao07Compara/src/secao07Compara/);
   </details>
 
 &nbsp;
