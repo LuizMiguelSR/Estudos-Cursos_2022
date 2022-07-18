@@ -163,6 +163,12 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Arrays](/Java/JavaFundamentals/Projetos/secao06Arrays/src/secao06Arrays/TwoDTester.java);
   </details>
 
+  <details>
+  <summary> Seção 07 Java Classes </summary>
+
+  - [Classes, Objetos e Métodos](/Java/JavaFundamentals/Projetos/secao07Classes/src/secao07Classes/Vehicle.java);
+  </details>
+
 &nbsp;
 
 ## **💻 Cursos de HTML e CSS**
