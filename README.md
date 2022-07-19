@@ -139,6 +139,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Curingas delimitados](/Java/CursoUdemyJava/generics4/src/);
   - [HasCode e Equals](/Java/CursoUdemyJava/genericHasCodeEquals/src/);
   - Set: [Exemplo 01 - Com HashSet](/Java/CursoUdemyJava/set1/src/application/Program.java), [Exemplo 02 - Com TreeSet](/Java/CursoUdemyJava/set1/src/application/Program2.java);
+  - [Como o set testa igualdade](/Java/CursoUdemyJava/setTestaIgualdade/src/);
   </details>
 
 &nbsp;
