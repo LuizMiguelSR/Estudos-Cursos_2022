@@ -144,7 +144,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
 
 &nbsp;
 
-- ### **Oracle - Java Fundamentals**
+- ### **Oracle - Java Fundamentals (✔Finalizado)**
 
   <details>
   <summary> Seção 04 Projetos na Eclipse IDE </summary>

@@ -27,14 +27,20 @@ public class teste {
 		 * 
 		 * Object array = new Object[5]; int x[] = new int[10];
 		 */
+
+		/*
+		 * int array[][] = { { 3, 2, 1 }, { 1, 2, 3 } }; for (int i = 0; i < 2; i++) for
+		 * (int j = 0; j < 3; j++) System.out.print(2 * array[i][j]);
+		 */
+		/*
+		 * int b = 12; int h = 8; double A = (double)1/(double)2*b*h;
+		 * System.out.println(A);
+		 */
 		
-		int array[][] = { { 3, 2, 1 }, { 1, 2, 3 } };
-		for (int i = 0; i < 2; i++)
-			for (int j = 0; j < 3; j++)
-				System.out.print(2 * array[i][j]);
-				
-			
-		
+		String[] oceans = {"Atlantic", "Pacific", "Indian", "Artic", "Southern" };
+		for(int i = 0; i < oceans.length; i++) {
+			System.out.print(oceans[i].length());
+		}
 	}
 
 }
