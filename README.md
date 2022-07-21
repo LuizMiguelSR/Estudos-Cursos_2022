@@ -197,6 +197,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Listas mistas e de definição](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex009b/index.html);
   - [Links e Âncoras em HTML5](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex010/index.html);
   - [Links internos](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex010/);
+  - [Links para downloads](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex010/);
   </details>
 
 &nbsp;
