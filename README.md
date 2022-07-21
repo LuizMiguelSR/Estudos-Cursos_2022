@@ -199,7 +199,8 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Links e Âncoras em HTML5](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex010/index.html);
   - [Links internos](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex010/);
   - [Links para downloads](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex010/);
-  - [Desafio 05](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/desafios/desafio05/index.html)
+  - [Desafio 05](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/desafios/desafio05/index.html);
+  - [Desafio 06](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/desafios/desafio06/index.html);
   </details>
 
 &nbsp;
