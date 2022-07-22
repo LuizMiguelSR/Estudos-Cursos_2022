@@ -142,6 +142,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Como o set testa igualdade](/Java/CursoUdemyJava/setTestaIgualdade/src/);
   - [Como TreeSet compara elementos](/Java/CursoUdemyJava/treeSetCompara/src/);
   - [Exercício Resolvido (Set)](/Java/CursoUdemyJava/set1Java/src/);
+  - Map: [Exemplo 01](/Java/CursoUdemyJava/map1Exemplo/src/application/Program.java), [Exemplo 02](/Java/CursoUdemyJava/map2Exemplo/src/);
 
 &nbsp;
 
