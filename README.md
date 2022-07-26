@@ -183,7 +183,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   Módulo 01
 
   <details>
-  <summary> Fundamentos </summary>
+  <summary> HTML 5 </summary>
 
   - [Primeiro Código em HTML](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex001/index.html);
   - [Parágrafos e Quebras](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex002/index.html);
@@ -204,6 +204,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Desafio 06](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/desafios/desafio06/index.html);
   - [Imagens dinâmicas](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex011/img/);
   - [Imagens que se adaptam sozinhas](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex011/index.html);
+  - [Colocando áudio no seu site](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex011/index.html);
   </details>
 
 &nbsp;
