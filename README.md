@@ -143,6 +143,13 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Como TreeSet compara elementos](/Java/CursoUdemyJava/treeSetCompara/src/);
   - [Exercício Resolvido (Set)](/Java/CursoUdemyJava/set1Java/src/);
   - Map: [Exemplo 01](/Java/CursoUdemyJava/map1Exemplo/src/application/Program.java), [Exemplo 02](/Java/CursoUdemyJava/map2Exemplo/src/);
+  </details>
+
+  <details>
+  <summary> Programação funcional e expressões lambda </summary>
+
+  - [Uma experiência com comparator](/Java/CursoUdemyJava/lambda1/src/);
+  </details>
 
 &nbsp;
 
