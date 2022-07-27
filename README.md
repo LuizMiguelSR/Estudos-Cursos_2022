@@ -212,7 +212,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Imagens dinâmicas](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex011/img/);
   - [Imagens que se adaptam sozinhas](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex011/index.html);
   - [Colocando áudio no seu site](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex011/index.html);
-  </details>
+  - [Formato de vídeo para seu site](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex012/midia/);
 
 &nbsp;
 
