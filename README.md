@@ -149,6 +149,9 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <summary> Programação funcional e expressões lambda </summary>
 
   - [Uma experiência com comparator](/Java/CursoUdemyJava/lambda1/src/);
+  - Programação funcional e cálculo lambda:
+    - [Transparência referencial](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/be31b9ebf74815fcc340a0b5cdfd2007e3adf1b4#diff-7595d88342182026a414230f5ad6ecafd66d7aa49daf447d02323d99f02579b3);
+    - [Funções são objetos de primeira ordem](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/3437b1c442b2dc70caec88eb26cb71810916eb82#diff-726a3fe60f0c8be398f9bfedb3c97ef33ad9b8c30ee39a9e9a30ac7669ba85c7);
   </details>
 
 &nbsp;
