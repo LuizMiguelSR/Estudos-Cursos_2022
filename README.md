@@ -152,6 +152,12 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - Programação funcional e cálculo lambda:
     - [Transparência referencial](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/be31b9ebf74815fcc340a0b5cdfd2007e3adf1b4#diff-7595d88342182026a414230f5ad6ecafd66d7aa49daf447d02323d99f02579b3);
     - [Funções são objetos de primeira ordem](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/3437b1c442b2dc70caec88eb26cb71810916eb82#diff-726a3fe60f0c8be398f9bfedb3c97ef33ad9b8c30ee39a9e9a30ac7669ba85c7);
+  - Predicate:
+    - [Implementação da interface](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/5c60b3350695ce3889e0c588ad61155552be9e30);
+    - [Reference method com método estático](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/1dbce99fb0665c742f047a1129c7f7be77f2324e);
+    - [Reference method com método não estático](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/eb929adde4e0bf04b1af268940f23862bfb9304f);
+    - [Expressão lambda declarada](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/4c15a40a8c1d72cf026ce2967f6acc8cd7da05e9);
+    - [Expressão lambda inline](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/a0508911613157f33234c44355fffeb0d0f5e877);
   </details>
 
 &nbsp;
