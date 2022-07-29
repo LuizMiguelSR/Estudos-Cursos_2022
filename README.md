@@ -217,6 +217,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Colocando áudio no seu site](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex011/index.html);
   - [Formato de vídeo para seu site](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex012/midia/);
   - [Vídeos em hospedagem própria](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex012/index.html);
+  - [Incorporação de vídeos externos](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex012/index.html);
   </details>
 
 &nbsp;
