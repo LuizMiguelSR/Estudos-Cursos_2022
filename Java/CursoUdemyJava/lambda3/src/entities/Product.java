@@ -26,12 +26,8 @@ public class Product {
 		this.price = price;
 	}
 	
-	public static boolean staticProductPredicate(Product p) {
-		return p.getPrice() >= 100.0;
-	}
-	
-	public boolean nonstaticProductPredicate() {
-		return price >= 100.0;
+	public static void staticPriceUpdate(Product p) {
+		p.setPrice(p.getPrice() * 1.1);
 	}
 	
 	@Override
