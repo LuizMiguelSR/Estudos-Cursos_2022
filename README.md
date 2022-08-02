@@ -232,6 +232,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Incorporação de vídeos externos](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex012/index.html);
   - [Desafio 09 - Site com vídeos](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/desafios/desafio09/);
   - [Estilos CSS inline](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex013/index.html);
+  - [Estilos CSS internos](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex014/index.html);
   </details>
 
 &nbsp;
