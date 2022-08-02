@@ -202,10 +202,8 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
 
 - ### **Curso em Vídeo**
 
-  Módulo 01
-
   <details>
-  <summary> HTML 5 e CSS 3 </summary>
+  <summary> Módulo 01 </summary>
 
   - [Primeiro Código em HTML](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex001/index.html);
   - [Parágrafos e Quebras](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex002/index.html);
@@ -233,6 +231,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Desafio 09 - Site com vídeos](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/desafios/desafio09/);
   - [Estilos CSS inline](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex013/index.html);
   - [Estilos CSS internos](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex014/index.html);
+  - [Estilos CSS externos](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex015/);
   </details>
 
 &nbsp;
