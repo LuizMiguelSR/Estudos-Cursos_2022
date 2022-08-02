@@ -164,6 +164,12 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
     - [Reference method com método não estático](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/b4e62c6d31c42670e5bad28af6f9d155528b4942);
     - [Expressão lambda declarada](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/a1340ed3f4dbad114ea84a20c849c4eef1c62c9e);
     - [Expressão lambda inline](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/a3a8798d9051f320c0ff7dd73157ebe22f68444d);
+  - Function:
+    - [Implementação da interface](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/ed0e38ed28171cbff9ed40d1c84fffff7028574c);
+    - [Reference method com método estático](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/76d38d5efeec4e6a4724230c7e85e02321a20566);
+    - [Reference method com método não estático](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/a129ccbd21608d99042c263206a90dbe902bd33b);
+    - [Expressão lambda declarada](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/ed1a4322b18499a30370ef847a61c0d86fa56b75);
+    - [Expressão lambda inline](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/8100c98d9b6ca2f277298efa1e3b026eb1575643);
   </details>
 
 &nbsp;
