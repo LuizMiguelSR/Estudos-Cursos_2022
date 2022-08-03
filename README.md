@@ -170,6 +170,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
     - [Reference method com método não estático](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/a129ccbd21608d99042c263206a90dbe902bd33b);
     - [Expressão lambda declarada](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/ed1a4322b18499a30370ef847a61c0d86fa56b75);
     - [Expressão lambda inline](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/8100c98d9b6ca2f277298efa1e3b026eb1575643);
+  - [Criando funções que recebem funções como parâmetro](/Java/CursoUdemyJava/lambda05/src/);
   </details>
 
 &nbsp;
