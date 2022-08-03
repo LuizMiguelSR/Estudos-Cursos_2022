@@ -240,6 +240,12 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Estilos CSS externos](/HTMLeCSS/CursoEmVideo/Modulo01/html-css/exercicios/ex015/);
   </details>
 
+  <details>
+  <summary> Módulo 02 </summary>
+
+  - [Representando cores com CSS3](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex016/cor01.html);
+  </details>
+
 &nbsp;
 
 - ### **Digital Inovation One (✔Finalizado)**
