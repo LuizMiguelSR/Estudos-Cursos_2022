@@ -172,6 +172,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
     - [Expressão lambda inline](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/8100c98d9b6ca2f277298efa1e3b026eb1575643);
   - [Criando funções que recebem funções como parâmetro](/Java/CursoUdemyJava/lambda05/src/);
   - [Stream](/Java/CursoUdemyJava/stream/src/application/Program.java);
+  - [Pipeline](/Java/CursoUdemyJava/pipeline/src/application/Program.java);
   </details>
 
 &nbsp;
