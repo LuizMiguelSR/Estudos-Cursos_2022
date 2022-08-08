@@ -173,6 +173,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Criando funções que recebem funções como parâmetro](/Java/CursoUdemyJava/lambda05/src/);
   - [Stream](/Java/CursoUdemyJava/stream/src/application/Program.java);
   - [Pipeline](/Java/CursoUdemyJava/pipeline/src/application/Program.java);
+  - [Exercício resolvido - filter, sorted, map, reduce](/Java/CursoUdemyJava/lambda6/src/);
   </details>
 
 &nbsp;
