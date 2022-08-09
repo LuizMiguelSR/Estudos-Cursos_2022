@@ -250,6 +250,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Representando cores com CSS3](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex016/cor01.html);
   - [Como criar degradê com CSS3](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex016/cor02.html);
   - [Criando um exemplo real](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex016/style.css);
+  - [Famílias de fonte com CSS](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex017/fonte01.html);
   </details>
 
 &nbsp;
