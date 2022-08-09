@@ -250,7 +250,8 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Representando cores com CSS3](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex016/cor01.html);
   - [Como criar degradê com CSS3](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex016/cor02.html);
   - [Criando um exemplo real](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex016/style.css);
-  - [Famílias de fonte com CSS](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex017/fonte01.html);
+  - [Famílias de fonte com CSS](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/c4852d311916107587aedf2440250f22be3cfd6c);
+  - [Tamanho de fonte e suas medidas](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex017/fonte01.html);
   </details>
 
 &nbsp;
