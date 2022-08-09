@@ -174,6 +174,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Stream](/Java/CursoUdemyJava/stream/src/application/Program.java);
   - [Pipeline](/Java/CursoUdemyJava/pipeline/src/application/Program.java);
   - [Exercício resolvido - filter, sorted, map, reduce](/Java/CursoUdemyJava/lambda6/src/);
+  - [Exercício de fixação](/Java/CursoUdemyJava/lambda7/src/);
   </details>
 
 &nbsp;
