@@ -255,6 +255,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Tamanho de fonte e suas medidas](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex017/fonte01.html);
   - [Usando Google Fonts](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex018/fonte01.html);
   - [Usando fontes externas baixadas](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex018/fonte02.html);
+  - [Alinhamento de textos em CSS](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex017/fonte02.html);
   </details>
 
 &nbsp;
