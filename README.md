@@ -177,6 +177,12 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Exercício de fixação](/Java/CursoUdemyJava/lambda7/src/);
   </details>
 
+  <details>
+  <summary> Acesso ao banco de dados com JDBC </summary>
+  
+  - [Preparação do primeiro projeto no Eclipse](/Java/CursoUdemyJava/jdbc1/);
+  </details>
+
 &nbsp;
 
 - ### **Oracle - Java Fundamentals (✔Finalizado)**
