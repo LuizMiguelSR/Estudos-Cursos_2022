@@ -257,6 +257,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Usando fontes externas baixadas](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex018/fonte02.html);
   - [Alinhamento de textos em CSS](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex017/fonte02.html);
   - [Usando o id com CSS](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex019/);
+  - [As diferenças entre id e class](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex019/);
   </details>
 
 &nbsp;
