@@ -215,9 +215,19 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
 
 &nbsp;
 
-## **💻 Cursos de HTML e CSS**
+## **💻 Cursos de Desenvolvimento Web**
 
-- ### **Curso em Vídeo**
+- ### **Curso Udemy - Introdução ao Vue.Js**
+
+  <details>
+  <summary> Seção 01 - Introdução</summary>
+
+  - Diferenças Vue x JavaScript clássico com DOM
+    - [HTML](/Frameworks/UdemyIntroducaoAoVueJs/Secao01Introducao/aula_001/index_html.html);
+    - [Vue](/Frameworks/UdemyIntroducaoAoVueJs/Secao01Introducao/aula_001/index_vue.html);
+  </details>
+
+- ### **Curso em Vídeo HTML5 e CSS3**
 
   <details>
   <summary> Módulo 01 </summary>
@@ -270,7 +280,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
 
 &nbsp;
 
-- ### **Digital Inovation One (✔Finalizado)**
+- ### **Digital Inovation One HTML5 e CSS3 (✔Finalizado)**
 
   Material de apoio
 

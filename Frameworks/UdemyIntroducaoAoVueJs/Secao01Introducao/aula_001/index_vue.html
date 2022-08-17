@@ -1,0 +1,34 @@
+<body>
+  <div id="app">
+    <div id="div_ola" v-if="mostrar_div">
+      Olá Mundo.
+      </div>
+      <button type="button" v-on:click="mostrar" v-if="!mostrar_div"  />Mostrar</button>
+      <button type="button" v-on:click="esconder" v-if="mostrar_div" />Esconder</button>
+
+  </div>
+
+
+</body>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
+<script>
+var app = new Vue({el: "#app",
+       data: {
+         mostrar_div: true
+       },
+       methods:{
+                      
+                mostrar(){
+                       this.mostrar_div = true;
+                },
+                esconder(){
+                       this.mostrar_div = false;
+                }
+
+       }
+
+
+
+});
+
+</script>
