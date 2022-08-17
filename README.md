@@ -181,6 +181,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <summary> Acesso ao banco de dados com JDBC </summary>
   
   - [Preparação do primeiro projeto no Eclipse](/Java/CursoUdemyJava/jdbc1/);
+  - [Demo recuperando dados](/Java/CursoUdemyJava/jdbc2/);
   </details>
 
 &nbsp;
