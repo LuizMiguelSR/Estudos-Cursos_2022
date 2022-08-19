@@ -281,6 +281,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [As diferenças entre id e class](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex019/);
   - [Pseudo classes em CSS](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex020/);
   - [Pseudo elementos em CSS](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex020/links.html);
+  - [Modelo de Caixas na prática (parte 1)](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex021/caixa01.html);
   </details>
 
 &nbsp;
