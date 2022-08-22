@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diretivas</title>
+</head>
+<body>
+    <div id="app">
+        <input type="text" v-model="nome" v-bind:style="estilo" v-on:change="alterei">
+        <textarea v-model="nome2">
+
+        </textarea>
+            {{ nome2 }} {{ nome }}
+        <div id="div_ola" v-if="mostrar_div" v-html="msg">
+            Olá mundo.
+        </div>
+        <button type="button" v-on:click="mostrar" v-if="!mostrar_div" />Mostar</button>
+        <button type="button" v-on:click="esconder" v-if="mostrar_div" />Esconder</button>
+
+        <ul>
+            <li v-for="(item, index) in lista" :key="index">
+                {{ item.nome }}
+                <input type="text" v-model="item.nome">
+            </li>
+        </ul>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+    <script>
+        var app = new Vue({el: "#app",
+            data: {
+                mostrar_div: true,
+                nome: "Luiz",
+                nome2: "Televisor",
+                lista: [
+                    { nome: "Nome 01"},
+                    { nome: "Nome 02"},
+                    { nome: "Nome 03"},
+                ],
+                estilo: "background-color: red",
+                msg: "Olá mundo - teste teste.",
+            },
+            methods: {
+                mostrar(){
+                    this.mostrar_div = true;
+                },
+                esconder(){
+                    this.mostrar_div = false;
+                },
+                alterei(event){
+                    //alert("Eu alterei o valor!");
+                    console.log("valor?", event.target.value);
+                    console.log("evento?", event);
+                }
+            },
+            created() {
+                console.log("eu montei o componente");
+            },
+            mounted() {
+                console.log("eu montei o componente");
+            }
+
+        });
+    </script>
+</body>
+</html>
