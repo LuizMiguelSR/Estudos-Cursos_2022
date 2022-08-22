@@ -186,6 +186,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
     - [Inserção simples com preparedStatement](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/520366215b5c8cc714a4b9fba5cbef570ef32f74);
     - [Inserção com recuperação de Id](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/70ebfbb2d72ad9db9487cb636005049a6f6705bb);
   - [Demo atualizar dados](/Java/CursoUdemyJava/jdbc4/);
+  - [Demo deletar dados](/Java/CursoUdemyJava/jdbc5/);
   </details>
 
 &nbsp;
