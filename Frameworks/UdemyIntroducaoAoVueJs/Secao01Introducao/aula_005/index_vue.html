@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diretivas</title>
+</head>
+<body>
+    <div id="app">
+        <input type="text" v-model="nome" v-bind:style="estilo" v-on:change="alterei">
+        <textarea v-model="nome2">
+
+        </textarea>
+            {{ nome2 }} {{ nome }}
+        <div id="div_ola" v-if="mostrar_div" v-html="msg">
+            Olá mundo.
+        </div>
+        <button type="button" v-on:click="mostrar" v-if="!mostrar_div" />Mostar</button>
+        <button type="button" v-on:click="esconder" v-if="mostrar_div" />Esconder</button>
+
+        <ul>
+            <li v-for="(item, index) in lista" :key="index">
+                {{ item.nome }}
+                <input type="text" v-model="item.nome">
+            </li>
+        </ul>
+        <select v-model="nome_selecionado">
+            <option v-for="(item, index) in lista" :key="index" :value="item.nome">{{item.nome}}</option>
+        </select>
+        O nome selecionado foi: {{nome_selecionado}} - e alteremos {{qtde}} vezes.
+        <br><br>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+    <script>
+        var app = new Vue({el: "#app",
+            data: {
+                mostrar_div: true,
+                nome: "Luiz",
+                nome2: "Televisor",
+                lista: [
+                    { nome: "Nome 01"},
+                    { nome: "Nome 02"},
+                    { nome: "Nome 03"},
+                ],
+                qtde: 0,
+                nome_selecionado: "",
+                estilo: "background-color: red",
+                msg: "Olá mundo - teste teste.",
+            },
+            methods: {
+                mostrar(){
+                    this.mostrar_div = true;
+                },
+                esconder(){
+                    this.mostrar_div = false;
+                },
+                alterei(event){
+                    //alert("Eu alterei o valor!");
+                    console.log("valor?", event.target.value);
+                    console.log("evento?", event);
+                }
+            },
+            watch: {
+                nome_selecionado: function(){
+                    this.qtde++;
+                }
+            },
+            computed: {
+                mostra_valor: function(){
+                    if (this.qtde > 0) {
+                        return true;
+                    }
+                    return false;
+                }
+            },
+            created() {
+                console.log("eu montei o componente");
+            },
+            mounted() {
+                console.log("eu montei o componente");
+            }
+
+        });
+    </script>
+</body>
+</html>

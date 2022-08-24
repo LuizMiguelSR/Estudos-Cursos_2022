@@ -234,6 +234,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Diretivas: v-model, v-on, v-if, v-for](/Frameworks/UdemyIntroducaoAoVueJs/Secao01Introducao/aula_002/index_vue.html);
   - [Diretivas: v-bind, v-on (change, click)](/Frameworks/UdemyIntroducaoAoVueJs/Secao01Introducao/aula_003/index_vue.html);
   - [Diretivas: v-html, mounted, created)](/Frameworks/UdemyIntroducaoAoVueJs/Secao01Introducao/aula_004/index_vue.html);
+  - [Observadores: Watch](/Frameworks/UdemyIntroducaoAoVueJs/Secao01Introducao/aula_005/index_vue.html);
   </details>
 
 &nbsp;
