@@ -289,6 +289,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Pseudo elementos em CSS](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex020/links.html);
   - [Modelo de Caixas na prática (parte 1)](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex021/caixa01.html);
   - [Modelo de Caixas na prática (parte 2)](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex021/caixa01.html);
+  - [Grouping Tags)](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex021/caixa02.html);
   </details>
 
 &nbsp;
