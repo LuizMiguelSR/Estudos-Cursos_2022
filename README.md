@@ -224,7 +224,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
 
 ## **💻 Cursos de Desenvolvimento Web**
 
-- ### **Curso Udemy - Introdução ao Vue.Js**
+- ### **Curso Udemy - Introdução ao Vue.Js (✔Finalizado)**
 
   <details>
   <summary> Seção 01 - Introdução</summary>
@@ -236,6 +236,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Diretivas: v-bind, v-on (change, click)](/Frameworks/UdemyIntroducaoAoVueJs/Secao01Introducao/aula_003/index_vue.html);
   - [Diretivas: v-html, mounted, created)](/Frameworks/UdemyIntroducaoAoVueJs/Secao01Introducao/aula_004/index_vue.html);
   - [Observadores: Watch](/Frameworks/UdemyIntroducaoAoVueJs/Secao01Introducao/aula_005/index_vue.html);
+  - [Requisições com Axios - Consultar CEP](/Frameworks/UdemyIntroducaoAoVueJs/Secao01Introducao/aula_005/index_vue.html);
   </details>
 
 &nbsp;
