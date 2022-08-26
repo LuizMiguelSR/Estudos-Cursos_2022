@@ -295,6 +295,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Grouping Tags](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex021/caixa02.html);
   - [Sombras nas Caixas](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex021/caixa02.html);
   - [Caixa com vértices arredondados](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex021/caixa02.html);
+  - [Bordas decoradas](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex021/caixa03.html);
   </details>
 
 &nbsp;
