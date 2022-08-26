@@ -188,7 +188,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Demo atualizar dados](/Java/CursoUdemyJava/jdbc4/);
   - [Demo deletar dados](/Java/CursoUdemyJava/jdbc5/);
   - [Demo Transações](/Java/CursoUdemyJava/jdbc6/);
-  - [Classe Department](/Java/CursoUdemyJava/jdbc6/);
+  - [Classe Department](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/64be9769dc9c22982a57dfda96baa788768b18dc);
   </details>
 
 &nbsp;
