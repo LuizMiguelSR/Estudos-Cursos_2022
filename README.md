@@ -300,6 +300,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Caixa com vértices arredondados](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex021/caixa02.html);
   - [Bordas decoradas](HTMLeCSS/CursoEmVideo/Modulo02/html-css/exercicios/ex021/caixa03.html);
   - [Criando um projeto do zero](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/bdd02751281954daf3c27a8c50944dec22faec68);
+  - [Transformando layout em código](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/a54b78ea99176a8aa8d9cb4cb2df12ea46c13249);
   </details>
 
 &nbsp;
