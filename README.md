@@ -191,6 +191,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Classe Department](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/64be9769dc9c22982a57dfda96baa788768b18dc);
   - [Classe Seller](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/bda09dea414cb58dd700839dae616b1053c99001);
   - [Interface DepartmentDao e SellerDao](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/bda09dea414cb58dd700839dae616b1053c99001);
+  - [SellerDaoJDBC e DaoFactory](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/bda09dea414cb58dd700839dae616b1053c99001);
   </details>
 
 &nbsp;
