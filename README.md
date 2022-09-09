@@ -307,6 +307,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Transformando layout em código](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/a54b78ea99176a8aa8d9cb4cb2df12ea46c13249);
   - [Organizando o conteúdo do site](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/9070a3c3ab98206034248c597d2d77e77dfdcd2b);
   - [Variáveis em CSS](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/5056d6c3935bbd25d1b70d1b3010c8228b4fe03e);
+  - [Responsividade na prática](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/7ec6cb149e940a48c6ac733243fe52454ef4b57c);
   </details>
 
 &nbsp;
