@@ -197,6 +197,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Implementando o FindByDepartment](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/18201f41a40c6f4d320b731bfbd47baf0fd2777a);
   - [Implementando o FindAll](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/6d16af5acb9c983e0363c388cb8c351ddd3823f8);
   - [Implementando insert](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/e2717975429df682ba6bfd5c805bb8c71c26b0a1);
+  - [Implementando o update](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/f30ecac5d6256c9500d01824a30db6a34ec74488);
   </details>
 
 &nbsp;
