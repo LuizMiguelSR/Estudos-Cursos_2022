@@ -199,6 +199,13 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Implementando insert](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/e2717975429df682ba6bfd5c805bb8c71c26b0a1);
   - [Implementando o update](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/f30ecac5d6256c9500d01824a30db6a34ec74488);
   - [Implementando o delete](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/fd8564d862a04e404395bf1bd7227617b1f89def);
+  - [Implementação e teste do DepartmentDao](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/107c6ff934074d543af311e781eb9ecf9d5448db);
+  </details>
+
+  <details>
+  <summary> Interface gráfica com JavaFX </summary>
+  
+  - [Preparação do primeiro projeto no Eclipse](/Java/CursoUdemyJava/jdbc1/);
   </details>
 
 &nbsp;
