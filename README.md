@@ -315,6 +315,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Configurando o header e o menu do site](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/d39f1349fb61fbd77f45fd0d54bc091434821069);
   - [Melhorando o formato do conteúdo](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/dc0d483eba6ff5401a2ab377646d0fdb43b97a03);
   - [Rodapé, conteúdo periférico e links](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/89dde41551b9eecc7632fb3d28687bc056d85cee);
+  - [Tornando um vídeo responsivo](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/c13f53e09996b280c54b7d86f68300bafc33b1ef);
   </details>
 
 &nbsp;
