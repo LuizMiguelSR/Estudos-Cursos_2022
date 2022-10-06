@@ -205,7 +205,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <details>
   <summary> Interface gráfica com JavaFX </summary>
   
-  - [Preparação do primeiro projeto no Eclipse](/Java/CursoUdemyJava/jdbc1/);
+  - [Criando um novo projeot JavaFX no Eclipse](/Java/CursoUdemyJava/javafx1/src/application/Main.java);
   </details>
 
 &nbsp;
