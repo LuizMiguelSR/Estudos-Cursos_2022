@@ -205,7 +205,8 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <details>
   <summary> Interface gráfica com JavaFX </summary>
   
-  - [Criando um novo projeot JavaFX no Eclipse](/Java/CursoUdemyJava/javafx1/src/application/Main.java);
+  - [Criando um novo projeto JavaFX no Eclipse](/Java/CursoUdemyJava/javafx1/src/application/Main.java);
+  - [Testando o FXML](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/1d5ae87af29829d34bd513be354aa02dee700276);
   </details>
 
 &nbsp;
