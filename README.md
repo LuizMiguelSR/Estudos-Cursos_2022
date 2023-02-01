@@ -330,6 +330,12 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Tornando um vídeo responsivo](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/c13f53e09996b280c54b7d86f68300bafc33b1ef);
   </details>
 
+  <details>
+  <summary> Módulo 03 </summary>
+
+  - [Download das imagens do capítulo](HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex022/img/);
+  </details>
+
 &nbsp;
 
 - ### **Digital Inovation One HTML5 e CSS3 (✔Finalizado)**
