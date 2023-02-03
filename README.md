@@ -203,6 +203,12 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   </details>
 
   <details>
+  <summary> Java EE - Mapeando objeto-relacional com JPA/Hibernate </summary>
+
+  - [Nivelamento JPA/Hibernate #01](/Java/CursoUdemyJava/aulaJPA/src/aplicacao/Programa.java);
+  </details>
+
+  <details>
   <summary> Interface gráfica com JavaFX </summary>
   
   - [Criando um novo projeto JavaFX no Eclipse](/Java/CursoUdemyJava/javafx1/src/application/Main.java);
