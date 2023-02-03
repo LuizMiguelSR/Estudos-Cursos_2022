@@ -334,7 +334,8 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <summary> Módulo 03 </summary>
 
   - [Download das imagens do capítulo](HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex022/img/);
-  - [Colocando uma imagem de fundo no seu site](HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex022/);
+  - [Colocando uma imagem de fundo no seu site](HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex022/fundo001.html);
+  - [Imagens que se repetem no fundo do seu site](HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex022/fundo002.html);
   </details>
 
 &nbsp;
