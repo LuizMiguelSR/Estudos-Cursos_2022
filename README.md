@@ -206,6 +206,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <summary> Java EE - Mapeando objeto-relacional com JPA/Hibernate </summary>
 
   - [Nivelamento JPA/Hibernate #01](/Java/CursoUdemyJava/aulaJPA/src/aplicacao/Programa.java);
+  - [Nivelamento JPA/Hibernate #02](/Java/CursoUdemyJava/aulajpamaven/);
   </details>
 
   <details>
