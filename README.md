@@ -346,6 +346,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Imagens que se repetem no fundo do seu site](HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex022/fundo002.html);
   - [Configurando a posição da imagem no fundo do seu site](HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex022/);
   - [Mudando o tamanho da imagem de fundo do site](HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex022/fundo006.html);
+  - [Background-attachment e shortland](HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex022/fundo006.html);
   </details>
 
 &nbsp;
