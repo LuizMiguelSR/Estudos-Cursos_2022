@@ -214,7 +214,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <summary> Projeto Web services com Spring Boot e JPA/Hibernate </summary>
 
   - [Criação do Projeto](/Java/CursoUdemyJava/course/);
-  - [Entidade User e seu resource](/Java/CursoUdemyJava/course/);
+  - [Entidade User e seu resource](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/a398b8400f94639f267ff8618a14838b73993519);
   </details>
 
   <details>
