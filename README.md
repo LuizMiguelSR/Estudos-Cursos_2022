@@ -355,6 +355,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Mudando o tamanho da imagem de fundo do site](HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex022/fundo006.html);
   - [Background-attachment e shortland](HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex022/fundo006.html);
   - [Centralização vertical de caixas](HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex022/fundo007.html);
+  - [Download e organização de arquivos](HTMLeCSS/CursoEmVideo/Modulo03/html-css/desafios/des12/);
   </details>
 
 &nbsp;
