@@ -215,6 +215,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
 
   - [Criação do Projeto](/Java/CursoUdemyJava/course/);
   - [Entidade User e seu resource](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/a398b8400f94639f267ff8618a14838b73993519);
+  - [Banco de dados H2, test profile, JPA](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/a398b8400f94639f267ff8618a14838b73993519);
   </details>
 
   <details>
