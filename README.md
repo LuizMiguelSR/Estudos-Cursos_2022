@@ -218,6 +218,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Banco de dados H2, test profile, JPA](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/5b59bca2724014342d8a8a4b4735105c52ecc6de);
   - [JPA repository, injeção de dependência, database seeding](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/d8b36291dd10aa32b582b70cda3ef25c98415f81);
   - [Camada de serviço, registro de componentes](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/45f755686189980ab2bd75d61557368928691f56);
+  - [Entidade Pedido, Datas com Instant e Padrão ISO 8601 #01](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/45f755686189980ab2bd75d61557368928691f56);
   </details>
 
   <details>
