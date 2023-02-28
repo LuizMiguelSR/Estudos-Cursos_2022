@@ -365,6 +365,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Ajustes no CSS do projeto](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/desafios/des12/estilo/style.css);
   - [Colocando fontes no projeto](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/desafios/des12/estilo/style.css);
   - [Imagens com efeito Parallax Simples](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/desafios/des12/estilo/style.css);
+  - [Projeto Cordel Publicado](https://luizmiguelsr.github.io/projeto-cordel/);
   </details>
 
 &nbsp;
