@@ -363,6 +363,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Ajustes no HTML do projeto](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/37430324fe7ef87a4906f3510eb37ba50cfc3cff);
   - [Ajustes no CSS do projeto](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/desafios/des12/estilo/style.css);
   - [Colocando fontes no projeto](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/desafios/des12/estilo/style.css);
+  - [Imagens com efeito Parallax Simples](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/desafios/des12/estilo/style.css);
   </details>
 
 &nbsp;
