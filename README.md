@@ -222,6 +222,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Entidade Pedido, Datas com Instant e Padrão ISO 8601 #02](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/2a1f7110eaa2a576c1b7ba3dccf45b6559cfd8d5);
   - [Enum OrderStatus](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/2a1f7110eaa2a576c1b7ba3dccf45b6559cfd8d5);
   - [Entidade Categoria](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/2a1f7110eaa2a576c1b7ba3dccf45b6559cfd8d5);
+  - [Entidade Produto](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/2a1f7110eaa2a576c1b7ba3dccf45b6559cfd8d5);
   </details>
 
   <details>
