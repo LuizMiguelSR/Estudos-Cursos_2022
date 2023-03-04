@@ -223,7 +223,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Enum OrderStatus](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/2a1f7110eaa2a576c1b7ba3dccf45b6559cfd8d5);
   - [Entidade Categoria](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/c827124c281aafe9a8c99851f7e078dd9c370113);
   - [Entidade Produto](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/dad3e5666e63c04e4e9931598fa69a1340714ef4);
-  - [Associação muitos para muitos com JoinTable](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/dad3e5666e63c04e4e9931598fa69a1340714ef4);
+  - [Associação muitos para muitos com JoinTable](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/a17729d1eb3a2a0aafc2c55e56fbdae56682b5c5);
   </details>
 
   <details>
