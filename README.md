@@ -372,6 +372,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Projeto Cordel Publicado](https://luizmiguelsr.github.io/projeto-cordel/);
   - [Primeira tabela em HTML](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex023/tabela001.html);
   - [Alinhando o conteúdo em tabelas](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex023/tabela001.html);
+  - [Aprendendo a trabalhar com tabelas grandes](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex023/tabela002.html);
   </details>
 
 &nbsp;
