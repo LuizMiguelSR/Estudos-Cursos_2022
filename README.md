@@ -374,6 +374,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Primeira tabela em HTML](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex023/tabela001.html);
   - [Alinhando o conteúdo em tabelas](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex023/tabela001.html);
   - [Aprendendo a trabalhar com tabelas grandes](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex023/tabela002.html);
+  - [Caption e Escopo de títulos em tabelas](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex023/tabela002.html);
   </details>
 
 &nbsp;
