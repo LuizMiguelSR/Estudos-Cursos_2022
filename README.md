@@ -226,6 +226,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Associação muitos para muitos com JoinTable](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/a17729d1eb3a2a0aafc2c55e56fbdae56682b5c5);
   - [Entidade OrderItem, Associação muitos para muitos com dados extras #01](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/c5399221a0a6bee30992e4fdc2a512d011d34bd4);
   - [Entidade OrderItem, Associação muitos para muitos com dados extras #02](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/eb5bc3b10c6c7c45c2102adeaca0706773e1231f);
+  - [Associação muitos para muitos entre Product e OrderItem](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/78ff16a48680e448cc9dd1b9c4d5a61d408b988f);
   </details>
 
   <details>
