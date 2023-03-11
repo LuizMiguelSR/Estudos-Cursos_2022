@@ -378,6 +378,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Aprendendo a trabalhar com tabelas grandes](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex023/tabela002.html);
   - [Caption e Escopo de títulos em tabelas](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex023/tabela002.html);
   - [Efeito zebrado na tabela com HTML e CSS](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex023/tabela002.html);
+  - [Cabeçalho fixo em tabelas grandes](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex023/tabela002.html);
   </details>
 
 &nbsp;
