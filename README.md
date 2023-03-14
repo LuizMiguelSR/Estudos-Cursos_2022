@@ -382,6 +382,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Efeito zebrado na tabela com HTML e CSS](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex023/tabela002.html);
   - [Cabeçalho fixo em tabelas grandes](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex023/tabela002.html);
   - [Mesclagem de células](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/exercicios/ex023/tabela003.html);
+  - [Desafios](/HTMLeCSS/CursoEmVideo/Modulo03/html-css/desafios/des13/);
   </details>
 
 &nbsp;
