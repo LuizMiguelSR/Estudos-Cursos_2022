@@ -228,7 +228,8 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Entidade OrderItem, Associação muitos para muitos com dados extras #02](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/eb5bc3b10c6c7c45c2102adeaca0706773e1231f);
   - [Associação muitos para muitos entre Product e OrderItem](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/78ff16a48680e448cc9dd1b9c4d5a61d408b988f);
   - [Entidade Payment, associação um para um](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/07afbf14ecf6134cdb70aa510245c51945d3f065);
-  - [Métodos total e subtotal](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/07afbf14ecf6134cdb70aa510245c51945d3f065);
+  - [Métodos total e subtotal](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/a17afab22ae40af1152a741f6079aba84a31357d);
+  - [Inserção de User](https://github.com/LuizMiguelSR/Cursos-de-2022/commit/60b334620019adabfa8e271b5fccecc524f670f0);
   </details>
 
   <details>
